@@ -1,0 +1,123 @@
+.content-wrapper {
+    background-color:  black;
+    font-family: 'Raleway', sans-serif;
+    align-content: center;
+    width: 100%;
+}
+
+.main-title{
+    color: #ffffff;
+    text-align: center;
+    padding: 150px;
+}
+
+.button-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+    
+
+.zuri-section{
+    color: #ffffff;
+    text-align: center;
+}
+
+.zuri-img{
+    border-radius: 10%;
+    margin: 20px 20px 20px 20px;
+    height: 220px;
+    width: 200px; 
+}
+
+.zuri-img:hover {
+    border: 4px solid #f1faee;
+    height: 200px;
+    max-width: 200px;
+}
+.toni-section{
+    color: #ffffff;
+    text-align: center;
+}
+
+.toni-img{
+    border-radius: 10%;
+    margin: 20px 20px 20px 20px;
+    height: 220px;
+    width: 200px; 
+}
+
+.toni-img:hover {
+    border: 4px solid #f1faee;
+    height: 200px;
+    max-width: 200px;
+}
+.asier-section{
+    color: #ffffff;
+    text-align: center;
+}
+
+.asier-img{
+    border-radius: 10%;
+    margin: 20px 20px 20px 20px;
+    height: 220px;
+    width: 200px; 
+}
+
+.asier-img:hover {
+    border: 4px solid #f1faee;
+    height: 200px;
+    max-width: 200px;
+}
+
+.carlos-section{
+    color: #ffffff;
+    text-align: center;
+}
+
+.carlos-img{
+    border-radius: 10%;
+    margin: 20px 20px 20px 20px;
+    height: 220px;
+    width: 200px; 
+}
+
+.carlos-img:hover {
+    border: 4px solid #f1faee;
+    height: 200px;
+    max-width: 200px;
+}
+.infantil-section{
+    color: #ffffff;
+    text-align: center;
+}
+
+.infantil-img{
+    border-radius: 10%;
+    margin: 20px 20px 20px 20px;
+    height: 220px;
+    width: 200px; 
+}
+
+.infantil-img:hover {
+    border: 4px solid #f1faee;
+    height: 200px;
+    max-width: 200px;
+}
+
+.admin-button{
+    display:flex;
+}
+.button{
+    text-decoration: none; 
+    color: #ffffff;
+    background-color: black;
+    border: 1px solid #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 70px;
+    margin-bottom: 60px;
+    margin-left: 540px;
+    
+}
